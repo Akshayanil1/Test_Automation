@@ -41,3 +41,6 @@ saucedemo_automation/
 snap/
 target/
 unit testing/
+.bash_logout
+.bashrc
+.profile
